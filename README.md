@@ -1,4 +1,4 @@
-# meals_app
+# galaxy_rest_mobile_application
 
 A new Flutter project.
 
